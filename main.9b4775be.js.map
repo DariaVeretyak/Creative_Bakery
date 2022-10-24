@@ -1,0 +1,1 @@
+{"version":3,"sources":["scripts/main.js"],"names":["window","scrollTo","top","behavior"],"mappings":";AAAA,aAEAA,OAAOC,SAAS,CACdC,IAAK,EACLC,SAAU","file":"main.9b4775be.js","sourceRoot":"..\\src","sourcesContent":["'use strict';\n\nwindow.scrollTo({\n  top: 0,\n  behavior: 'smooth',\n});\n"]}
